@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2302182-e0dd-405f-a545-77e2dd09a9c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2TNVpyborywwmF30gBpRT2icJ5D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\BookFactory\src\main\proto" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BookServer">
+    <configuration name="BookServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jingtao.library.BookServer" />
+      <module name="BookFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jingtao.library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jingtao.library.HelloServer" />
+      <module name="BookFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jingtao.library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BookServer" />
+        <item itemvalue="Application.HelloServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2302182-e0dd-405f-a545-77e2dd09a9c7" name="Default Changelist" comment="" />
+      <created>1690883711117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690883711117</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1691117993989">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1691117993989" />
+    <state width="1222" height="128" key="GridCell.Tab.0.bottom" timestamp="1691151150583">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1222" height="128" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1691151150583" />
+    <state width="1222" height="128" key="GridCell.Tab.0.center" timestamp="1691151150582">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1222" height="128" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1691151150582" />
+    <state width="1222" height="128" key="GridCell.Tab.0.left" timestamp="1691151150582">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1222" height="128" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1691151150582" />
+    <state width="1222" height="128" key="GridCell.Tab.0.right" timestamp="1691151150582">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1222" height="128" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1691151150582" />
+    <state x="270" y="50" key="SettingsEditor" timestamp="1690969503355">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="270" y="50" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1690969503355" />
+    <state x="371" y="108" width="793" height="600" key="find.popup" timestamp="1690941318576">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="371" y="108" width="793" height="600" key="find.popup/0.0.1536.816@0.0.1536.816" timestamp="1690941318576" />
+    <state x="275" y="156" key="new project wizard" timestamp="1690946963962">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="275" y="156" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1690946963962" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1690943342993">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1690943342993" />
+  </component>
+</project>
